@@ -1,0 +1,2 @@
+link get cookie: https://plus24h.com/huong-dan-fplus/huong-dan-cai-dat-ung-dung-get-cookie.html
+Lưu ý: chạy bằng cmd; phải để tệp cookie cùng thư mục với tệp share

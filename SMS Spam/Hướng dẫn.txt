@@ -1,0 +1,9 @@
+SMS Spam by Vui Vẻ
+B1: Khởi động ứng dụng
+B2: Nhập SĐT cần Spam
+B3: Nhập thời gian cách nhau mỗi tin (đơn vị: giây; #tốt nhất để delay 10 giây)
+B4: Chờ victim dính bẫy a hi hi
+
+
+Tôi Vui Vẻ chúc các bẹn thành công!
+Thân ái quyết thắng!

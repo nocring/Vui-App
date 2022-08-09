@@ -1,0 +1,13 @@
+Giải mã và mã hóa .txt by Vui Vẻ
+#Lưu ý: vui lòng tải toàn bộ thư mục mang tên: "Giải-Mã Hóa" để chương trình hoạt động ổn định
+B1: Sau khi tải xuống copy folder vào một ổ khác ổ C; bấm vào thanh địa chỉ gõ "cmd" rồi bấm enter
+B2: Khi bấm enter sẽ xuất hiện cửa sổ cmd, gõ "Encrypt" rồi bấm enter sẽ xuất hiện ra phần hướng dẫn
+B3: Dựa vào phần hướng dẫn rồi thực hiện
+
+#Lưu ý: Đây là bản thử nghiệm, được viết bởi một người khác. Nếu muốn có bản mới hơn vui lòng liên hệ với tôi qua đường link bên dưới.
+
+Tôi Vui Vẻ chúc các bẹn thành công!
+Thân ái quyết thắng!
+
+
+Ghé thăm tôi tại: https://www.facebook.com/profile.php?id=100076426310765
